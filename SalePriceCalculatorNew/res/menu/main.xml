@@ -1,0 +1,14 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.example.salepricecalculatornew.MainActivity" >
+
+    <item
+        android:id="@+id/menuCalculator"
+        android:icon="@drawable/ic_dialog_dialer"
+        android:title="@string/mainActivityCalculator" />
+    
+    <item android:id="@+id/action_settings"
+	    android:title="@string/mainActivityReport"
+	    android:icon="@drawable/ic_menu_mark" />
+
+</menu>

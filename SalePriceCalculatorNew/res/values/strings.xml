@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Sale Price Calculator</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="mainActivityCalculator">Calculator</string>
+    <string name="original_price">Original Price ($)</string>
+    <string name="original_price_message">Enter Price</string>
+    <string name="discount">1st Discount (%)</string>
+    <string name="discount_message">Enter Discount</string>
+    <string name="second_discount">2nd Discount(%)</string>
+    <string name="second_discount_message">2nd Discount ?</string>
+    <string name="tax">Tax (%)</string>
+    <string name="tax_message">Enter tax</string>
+    <string name="final_price">Final Price ($)</string>
+    <string name="final_price_message">You Pay</string>
+    <string name="saved">You Saved ($)</string>
+    <string name="saved_message">You Saved</string>
+    <color name="buttonColor">#C2DB93</color>
+    <color name="backColor">#616661</color>
+    <color name="textColor">#71B365</color>
+    <color name="inputColor">#BABBB7</color>
+    <color name="hintColor">#BEC2BE</color>
+    <string name="reset">Reset</string>
+    <string name="savePage">Save to Compare</string>
+    <string name="showPage">Compare</string>
+    <string name="title_activity_report">ReportActivity</string>
+    <string name="testResults">Results</string>
+    <string name="questionPrefs">questionPrefs</string>
+    <string name="clear">Clear</string>
+    <string name="mainActivityReport">Report</string>
+</resources>
